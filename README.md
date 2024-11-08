@@ -1,5 +1,10 @@
 # Reading List
 
+### Cryptography
+
+* [Zero Knowledge Proofs](https://arxiv.org/pdf/2408.00243v1)
+* [Handbook of Applied Cryptography](https://cacr.uwaterloo.ca/hac/)
+
 ### Consensus
 
 * [Aura](https://openethereum.github.io/Aura)
